@@ -25,7 +25,7 @@ function calculateBill(hoursStay, hourlyRate) {
   
     const timeDiff = Math.abs(endTimestamp - startTimestamp);
     
-    const totalHours = Math.round(timeDiff / (1000 * 60 * 60) * 100) / 100000;
+    const totalHours = Math.round(timeDiff / (1000 * 60 * 60) * 100) / 100;
 
     return totalHours;
   }
