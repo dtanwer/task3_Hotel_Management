@@ -6,7 +6,7 @@ This is a basic hotel management system built using JavaScript. It allows the ad
 
 1. Clone this repository to your local machine.
 2. Open the terminal and navigate to the root directory of the project.
-3. Run `node index.js` to start the application.
+3. Run `node HotelApp.js` to start the application.
 4. Follow the instructions on the screen to use the application.
 
 ## Features
